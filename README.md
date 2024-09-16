@@ -42,7 +42,7 @@ This project is a Python-based GUI application that uses steganography technique
    ```
    ```bash
    #for CLI or Terminal
-   python SteganographyApp.py
+   python SteganographyCLI.py
    ```
 
 2. **Using the GUI**:
